@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "566276315378",
+    "project_id": "uas-mobile-d607d",
+    "storage_bucket": "uas-mobile-d607d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566276315378:android:69019fd5faef83af7e186b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_employee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566276315378-ufbfb4k3sarecu655bnqtt1dqf5mdjib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_employee",
+            "certificate_hash": "c65af7ae42a00745b09ae4dd9a55fb19b6986f3e"
+          }
+        },
+        {
+          "client_id": "566276315378-bsdsd3hiorq1illa0s734liu3df8an6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDulfwIWTAwRbiCkTGHBETiogcKhuUrIfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566276315378-bsdsd3hiorq1illa0s734liu3df8an6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
